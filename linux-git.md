@@ -1,4 +1,3 @@
-````markdown
 # CoreDataEngineers Linux and Git Project
 
 ## Project Overview
